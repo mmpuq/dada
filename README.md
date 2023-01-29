@@ -1,6 +1,10 @@
-> adaptable辣鸡平台，限流严重，频繁请求直接拉闸`Rate exceeded`
+com
 
-- 协议：vless + ws
+[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/mmpuq/data
+
+
+
+less + ws
 - ws路径： /api
 - 用户ID： 详见config.yaml
 
